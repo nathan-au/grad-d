@@ -21,13 +21,13 @@ The West Carleton Grad System is a full-stack web application designed to stream
 ### Front-end
 
 - **HTML** - Structures web page content and layout.
-- **CSS / Bootstrap** - Provides styling and responsive design with pre-build components.
+- **CSS/Bootstrap** - Provides styling and responsive design with pre-build components.
 - **JavaScript** - Adds client-side interactivity and dynamic features.
 
 ### Back-end
 
 - **PHP** - Handles core application logic including data processing, session management, image manipulation, and more.
-- **SQL / MySQL** - Stores all data (student information, slideshow configurations, settings, etc.) in a relational database. Database is accessed through SQL queries.
+- **SQL/MySQL** - Stores all data (student information, slideshow configurations, settings, etc.) in a relational database. Database is accessed through SQL queries.
 - **Google OAuth API** - Enables secure user authentication for students and administrators via Google accounts.
 
 ## Demo Screenshots
